@@ -59,3 +59,16 @@ body {
   text-align: center;
   padding: 10px;
 }
+
+.section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.section li {
+  margin: 12px 0;
+}
+
+.section i {
+  margin-right: 8px;
+}
